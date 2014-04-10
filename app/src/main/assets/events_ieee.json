@@ -1,0 +1,8 @@
+{"eventArray"
+	: [
+    { "name" : "Event1", "date": "date1", "description" : "description1"},
+	{ "name" : "Event2", "date": "date2", "description" : "description2"},
+	{ "name" : "Event3", "date": "date3", "description" : "description3"},
+	{ "name" : "Event4", "date": "date4", "description" : "description4"}
+	]
+}
