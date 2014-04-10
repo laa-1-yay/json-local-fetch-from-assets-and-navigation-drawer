@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JSONNNNNNNNNANDNAVGATIONDRAWER.iml" filepath="$PROJECT_DIR$/JSONNNNNNNNNANDNAVGATIONDRAWER.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-local-fetch-from-assets-and-navigation-drawer.iml" filepath="$PROJECT_DIR$/json-local-fetch-from-assets-and-navigation-drawer.iml" />
     </modules>
   </component>
 </project>
